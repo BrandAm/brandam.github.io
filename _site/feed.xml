@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BrandAm</title>
+    <description>BrandAm is a service that allows companies to connect with their ambassadors so that they can reward and incentivize their actions.
+</description>
+    <link>http://BrandAm.co/</link>
+    <atom:link href="http://BrandAm.co/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 Jan 2016 09:42:49 -0500</pubDate>
+    <lastBuildDate>Fri, 01 Jan 2016 09:42:49 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>
